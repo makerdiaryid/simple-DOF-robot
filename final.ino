@@ -2,8 +2,8 @@
 #include <string.h>
 #include "Servo.h"
  
-const char* ssid = "MD_net";
-const char* password = "curiosityisgood88";
+const char* ssid = "nama_wifi";
+const char* password = "password_wifi";
  
 int ledPin = 2;
 WiFiServer server(80);
